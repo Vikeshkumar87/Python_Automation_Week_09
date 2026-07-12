@@ -1,0 +1,16 @@
+# Python Automation Week 09 — Dependencies
+# Install all with: pip install -r requirements.txt
+
+# Task 2: Folder Watcher
+watchdog>=3.0.0
+
+# Task 3: Web Scraper
+requests>=2.31.0
+
+# Task 4: API Caller
+# requests is already listed above
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Task 5: System Monitor
+psutil>=5.9.0

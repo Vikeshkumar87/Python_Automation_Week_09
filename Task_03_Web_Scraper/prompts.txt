@@ -1,0 +1,28 @@
+Prompts Used — Task 3: Web Scraper
+===================================
+
+Prompt 1 (Initial Request):
+----------------------------
+"Write a Python script that fetches the latest news headlines from BBC News
+and saves them to a text file. Use the requests library to download the BBC
+News RSS feed and Python's built-in xml.etree.ElementTree to parse the XML.
+Extract the title, publication date, link, and description for each headline.
+Save the top 20 headlines to a file called 'headlines.txt'."
+
+Prompt 2 (Output Formatting):
+------------------------------
+"Format the headlines.txt output neatly: include a header with the source name
+and fetch timestamp, then number each headline with its title, date, URL, and
+a short description on separate indented lines. Use separator lines for
+readability."
+
+Prompt 3 (Console Preview):
+----------------------------
+"After saving the file, also print a preview of the top 5 headlines to the
+console so the user gets immediate feedback without opening the file."
+
+Prompt 4 (Error Handling):
+---------------------------
+"Add proper error handling using try/except blocks to catch network errors
+(requests.exceptions.RequestException) and XML parsing errors, printing a
+clear error message and exiting with a non-zero status code."

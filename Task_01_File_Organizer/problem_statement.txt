@@ -1,0 +1,50 @@
+Task 1: File Organizer
+======================
+
+Problem Statement:
+------------------
+Write a Python script that automatically organizes files in a specified directory
+by moving them into subfolders based on their file type (extension).
+
+Requirements:
+-------------
+1. Scan all files in a given source directory.
+2. Categorize each file by its extension into predefined categories:
+   - Images     : .jpg, .jpeg, .png, .gif, .bmp, .svg, .webp, .tiff, .ico
+   - Documents  : .pdf, .doc, .docx, .txt, .odt, .ppt, .pptx
+   - Data       : .csv, .json, .xml, .sql, .db, .xlsx
+   - Videos     : .mp4, .avi, .mkv, .mov, .wmv, .flv
+   - Audio      : .mp3, .wav, .ogg, .flac, .aac
+   - Archives   : .zip, .tar, .gz, .rar, .7z
+   - Code       : .py, .js, .html, .css, .java, .cpp, .c, .ts
+   - Others     : All uncategorized file types
+3. Create subfolders (if not already present) for each category.
+4. Move each file to its appropriate subfolder.
+5. Handle duplicate filenames gracefully (append a counter suffix).
+6. Print a summary of how many files were moved.
+
+Input:
+------
+- A directory path (prompt user or pass as argument)
+
+Output:
+-------
+- Files reorganized into category-based subfolders
+- Console output showing each file move
+- Summary count at the end
+
+Tools/Libraries Used:
+---------------------
+- os       (standard library)
+- shutil   (standard library)
+- pathlib  (standard library)
+
+How to Run:
+-----------
+Step 1: Navigate to the Task_01_File_Organizer directory.
+Step 2: (Optional) Generate test files first:
+            python create_test_files.py
+Step 3: Run the organizer:
+            python file_organizer.py
+Step 4: When prompted, enter the path to the directory you want to organize,
+        or press Enter to use the default ./test_files directory.

@@ -1,0 +1,46 @@
+Task 3: Web Scraper
+===================
+
+Problem Statement:
+------------------
+Write a Python script that automatically fetches the latest news headlines
+from a public news source and saves them to a text file.
+
+Requirements:
+-------------
+1. Fetch the BBC News RSS feed (a structured XML feed) using the requests
+   library.
+2. Parse the XML response using Python's built-in xml.etree.ElementTree
+   module.
+3. Extract the following fields for each headline:
+   - Title
+   - Published date
+   - URL link
+   - Short description
+4. Save the top 20 headlines to a timestamped text file (headlines.txt).
+5. Display a preview of the top 5 headlines in the console.
+6. Handle network errors gracefully (connection timeout, HTTP errors).
+
+Input:
+------
+- BBC News RSS feed URL: https://feeds.bbci.co.uk/news/rss.xml
+
+Output:
+-------
+- ./headlines.txt     — formatted list of headlines with dates and links
+- Console preview     — top 5 headlines printed to stdout
+
+Tools/Libraries Used:
+---------------------
+- requests          (third-party — install via pip)
+- xml.etree.ElementTree (standard library)
+- os / datetime     (standard library)
+
+How to Run:
+-----------
+Step 1: Install dependencies:
+            pip install requests
+Step 2: Navigate to the Task_03_Web_Scraper directory.
+Step 3: Run the scraper:
+            python web_scraper.py
+Step 4: Open headlines.txt to see the saved headlines.

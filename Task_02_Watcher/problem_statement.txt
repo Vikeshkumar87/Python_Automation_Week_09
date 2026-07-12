@@ -1,0 +1,49 @@
+Task 2: Folder Watcher
+======================
+
+Problem Statement:
+------------------
+Write a Python script that continuously monitors a designated "watch" folder
+for any newly added files and automatically copies/moves them to a backup
+location.
+
+Requirements:
+-------------
+1. Watch a source folder (./watch_folder) in real-time using the watchdog
+   library.
+2. Whenever a new file is created inside the watched folder:
+   a. Wait briefly to ensure the file is fully written to disk.
+   b. Copy the file to the backup folder (./backup_folder).
+   c. Print a timestamped log message indicating the detected file and
+      the backup destination.
+3. Handle duplicate filenames in the backup folder gracefully (append a
+   counter suffix so existing backups are never overwritten).
+4. Run indefinitely until the user presses Ctrl+C.
+5. Print a clean shutdown message when stopped.
+
+Input:
+------
+- Files dropped or created inside ./watch_folder
+
+Output:
+-------
+- Backed-up copies of each new file inside ./backup_folder
+- Timestamped console log of every detected file
+
+Tools/Libraries Used:
+---------------------
+- watchdog>=3.0.0   (third-party — install via pip)
+- shutil            (standard library)
+- time              (standard library)
+- os / pathlib      (standard library)
+
+How to Run:
+-----------
+Step 1: Install dependencies:
+            pip install watchdog
+Step 2: Navigate to the Task_02_Watcher directory.
+Step 3: Run the watcher:
+            python watcher.py
+Step 4: While the watcher is running, copy/create files inside watch_folder/.
+        Observe the console log and check backup_folder/ for backed-up files.
+Step 5: Press Ctrl+C to stop the watcher.

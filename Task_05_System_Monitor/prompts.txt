@@ -1,0 +1,33 @@
+Prompts Used — Task 5: System Monitor
+======================================
+
+Prompt 1 (Initial Request):
+----------------------------
+"Write a Python script using psutil that logs CPU usage, RAM usage, and
+disk usage every 60 seconds to a file called system_monitor.log inside
+a ./logs/ subdirectory. Each log entry should include a timestamp and be
+appended on a new line so the log file grows over time."
+
+Prompt 2 (Metrics & Format):
+-----------------------------
+"Format each log entry as a single readable line:
+[YYYY-MM-DD HH:MM:SS] CPU: X% | RAM: X.XXgb / X.XXgb (X%) | Disk: X.XXgb / X.XXgb (X%)
+Also print the same line to the console immediately after writing it to
+the file."
+
+Prompt 3 (Configurable Interval):
+-----------------------------------
+"Make the logging interval configurable: read it from the command-line
+argument sys.argv[1] if provided, otherwise default to 60 seconds.
+Print the active interval at startup."
+
+Prompt 4 (Shutdown Summary):
+-----------------------------
+"When the user presses Ctrl+C, catch the KeyboardInterrupt exception,
+print a clean shutdown message that includes the total number of entries
+logged during the current session and the full path to the log file."
+
+Prompt 5 (Disk Path):
+----------------------
+"On Windows use 'C:\\' and on Unix use '/' as the disk path for
+psutil.disk_usage() so the script works cross-platform."

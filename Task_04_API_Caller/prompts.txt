@@ -1,0 +1,38 @@
+Prompts Used — Task 4: API Caller
+==================================
+
+Prompt 1 (Initial Request):
+----------------------------
+"Write a Python script that calls the JSONPlaceholder public API endpoint
+https://jsonplaceholder.typicode.com/users to retrieve customer data. The
+returned JSON has nested objects (address, address.geo, company). Flatten
+the entire structure using pandas so that every nested field becomes its own
+column. Store the result as both a CSV file and an Excel file in an ./output/
+directory."
+
+Prompt 2 (Flattening Logic):
+-----------------------------
+"Write the flattening function manually (without using pandas.json_normalize)
+to make the code explicit. For each user record, extract all nested fields
+into a flat Python dictionary. The resulting columns should be:
+id, name, username, email, phone, website,
+address_street, address_suite, address_city, address_zipcode,
+geo_lat, geo_lng, company_name, company_catchphrase, company_bs."
+
+Prompt 3 (File Naming):
+------------------------
+"Use a timestamp suffix in the output file names (e.g.,
+customers_20240712_143022.csv) so that multiple runs do not overwrite
+each other's output."
+
+Prompt 4 (Console Output):
+---------------------------
+"After loading the data, print the DataFrame shape (rows × columns), the
+column names, and the first 3 rows to give the user a quick summary before
+writing the files."
+
+Prompt 5 (Error Handling):
+---------------------------
+"Wrap the API call in a try/except block to handle network errors
+(requests.exceptions.RequestException) and validate that the HTTP response
+status code is 200 before processing the data."

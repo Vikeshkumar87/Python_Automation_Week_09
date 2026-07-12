@@ -1,0 +1,57 @@
+Task 4: API Caller
+==================
+
+Problem Statement:
+------------------
+Write a Python script that retrieves customer data from a public REST API,
+flattens the nested JSON structure using pandas, and exports the results to
+both CSV and Excel files.
+
+Requirements:
+-------------
+1. Call the JSONPlaceholder public API endpoint:
+       GET https://jsonplaceholder.typicode.com/users
+   which returns 10 user (customer) records in JSON format.
+2. Each record contains nested objects:
+       address  → street, suite, city, zipcode, geo (lat/lng)
+       company  → name, catchPhrase, bs
+3. Flatten the nested structure so that every field becomes its own column
+   in a pandas DataFrame (15 columns total).
+4. Display the flattened DataFrame summary (shape + first 3 rows) in the
+   console.
+5. Export the DataFrame to two files inside ./output/:
+       customers_<timestamp>.csv
+       customers_<timestamp>.xlsx
+6. Handle API errors (network issues, non-200 responses) gracefully.
+
+Input:
+------
+- Public API: https://jsonplaceholder.typicode.com/users
+
+Output:
+-------
+- ./output/customers_<YYYYMMDD_HHMMSS>.csv    — flat CSV export
+- ./output/customers_<YYYYMMDD_HHMMSS>.xlsx   — flat Excel export
+- Console summary of the DataFrame
+
+Columns in output files:
+------------------------
+id, name, username, email, phone, website,
+address_street, address_suite, address_city, address_zipcode,
+geo_lat, geo_lng,
+company_name, company_catchphrase, company_bs
+
+Tools/Libraries Used:
+---------------------
+- requests>=2.31.0   (third-party — install via pip)
+- pandas>=2.0.0      (third-party — install via pip)
+- openpyxl>=3.1.0    (third-party — required for .xlsx export)
+
+How to Run:
+-----------
+Step 1: Install dependencies:
+            pip install requests pandas openpyxl
+Step 2: Navigate to the Task_04_API_Caller directory.
+Step 3: Run the script:
+            python api_caller.py
+Step 4: Check the ./output/ folder for the generated CSV and Excel files.
