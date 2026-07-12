@@ -1,0 +1,27 @@
+Prompts Used — Task 1: File Organizer
+======================================
+
+Prompt 1 (Initial Request):
+----------------------------
+"Write a Python script that automatically sorts files in a directory into
+subfolders based on type (e.g., .pdf, .jpg, .csv). The script should:
+- Accept a target directory path from the user
+- Categorize files by extension (Images, Documents, Data, Videos, Audio,
+  Archives, Code, Others)
+- Create subfolders for each category if they do not exist
+- Move files into the correct subfolder
+- Handle duplicate filenames by appending a counter
+- Print a log of every file moved and a final summary"
+
+Prompt 2 (Test Data):
+----------------------
+"Write a helper script (create_test_files.py) that generates sample dummy files
+with various extensions (.jpg, .pdf, .csv, .mp3, .zip, .txt, .json, .mp4,
+.docx, .py, .html) inside a 'test_files' subdirectory so the organizer script
+can be demonstrated immediately."
+
+Prompt 3 (Refinement):
+-----------------------
+"Ensure the script does not move folders, only files. Also add a check so that
+if the target directory does not exist, it prints a clear error message and
+exits gracefully."

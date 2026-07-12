@@ -1,0 +1,27 @@
+Prompts Used — Task 2: Folder Watcher
+======================================
+
+Prompt 1 (Initial Request):
+----------------------------
+"Write a Python script using the watchdog library that monitors a folder
+called 'watch_folder' for any new files. Whenever a new file appears,
+automatically copy it to a 'backup_folder'. Print a timestamped log
+message for every file that is detected and backed up."
+
+Prompt 2 (Refinement — Duplicates):
+-------------------------------------
+"Update the watcher to handle the case where a file with the same name
+already exists in the backup folder. Instead of overwriting it, append
+a numeric counter to the filename (e.g., report_1.pdf, report_2.pdf)."
+
+Prompt 3 (Refinement — Stability):
+------------------------------------
+"Add a short sleep delay after a file creation event is detected before
+copying it. This ensures the file is fully written to disk before the
+copy operation starts, avoiding partial-file errors."
+
+Prompt 4 (Graceful Shutdown):
+------------------------------
+"Wrap the main watcher loop in a try/except KeyboardInterrupt block so
+the script stops cleanly when the user presses Ctrl+C, and print a
+confirmation message."

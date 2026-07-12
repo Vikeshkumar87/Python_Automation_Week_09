@@ -1,0 +1,53 @@
+Task 5: System Monitor
+======================
+
+Problem Statement:
+------------------
+Write a Python script that continuously monitors the system's CPU usage,
+memory usage, and disk usage, logging a snapshot every 60 seconds to a
+persistent log file.
+
+Requirements:
+-------------
+1. Use the psutil library to read system resource metrics.
+2. Every 60 seconds, collect and log the following metrics:
+       - Timestamp          (YYYY-MM-DD HH:MM:SS)
+       - CPU usage          (percentage)
+       - RAM used / total   (GB + percentage)
+       - Disk used / total  (GB + percentage)
+3. Append each log entry as a single line to ./logs/system_monitor.log.
+4. Also print each log entry to the console in real-time.
+5. Run indefinitely until the user presses Ctrl+C.
+6. On shutdown (Ctrl+C), print the path to the log file and total entries
+   logged in the current session.
+
+Input:
+------
+- System resource data read via psutil every 60 seconds
+
+Output:
+-------
+- ./logs/system_monitor.log  — appended log file (survives between runs)
+- Console output              — real-time display of each logged entry
+
+Log Line Format:
+----------------
+[2024-07-12 14:30:00] CPU: 12.5% | RAM: 6.20GB / 15.83GB (39.2%) | Disk: 180.4GB / 476.0GB (37.9%)
+
+Tools/Libraries Used:
+---------------------
+- psutil>=5.9.0   (third-party — install via pip)
+- time            (standard library)
+- os / datetime   (standard library)
+
+How to Run:
+-----------
+Step 1: Install dependencies:
+            pip install psutil
+Step 2: Navigate to the Task_05_System_Monitor directory.
+Step 3: Run the monitor:
+            python system_monitor.py
+        (Optional) Pass a custom interval in seconds as an argument:
+            python system_monitor.py 10
+Step 4: Check ./logs/system_monitor.log to review the recorded data.
+Step 5: Press Ctrl+C to stop the monitor.
