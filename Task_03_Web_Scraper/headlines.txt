@@ -1,5 +1,5 @@
 BBC News — Top Headlines
-Fetched on : 2026-07-12 21:23:13
+Fetched on : 2026-07-12 23:14:40
 Source     : https://feeds.bbci.co.uk/news/rss.xml
 ======================================================================
 
@@ -13,93 +13,93 @@ Source     : https://feeds.bbci.co.uk/news/rss.xml
     URL  : https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss
     Info : The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province, local...
 
- 3. Tuchel angry at 'lucky' England - but Bellingham defends players
-    Date : Sun, 12 Jul 2026 03:08:42 GMT
-    URL  : https://www.bbc.co.uk/sport/football/articles/ckg474ekv58o?at_medium=RSS&at_campaign=rss
-    Info : England boss Thomas Tuchel is praised by some for saying his players "got lucky" in World Cup quarter-final win over Norway - but ...
-
- 4. We are living fewer years in good health: Is the NHS part of the problem?
+ 3. We are living fewer years in good health: Is the NHS part of the problem?
     Date : Sun, 12 Jul 2026 00:42:35 GMT
     URL  : https://www.bbc.co.uk/news/articles/c8r2nz82z3vo?at_medium=RSS&at_campaign=rss
     Info : What is driving the UK's fall in healthy life expectancy?
 
- 5. Bill for Hillsborough Law set to be approved by MPs
-    Date : Sun, 12 Jul 2026 13:55:51 GMT
-    URL  : https://www.bbc.co.uk/news/articles/cz754eey3xeo?at_medium=RSS&at_campaign=rss
-    Info : The crush at the 1989 FA Cup semi-final between Liverpool and Nottingham Forest left 97 fans dead.
-
- 6. US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'
-    Date : Sun, 12 Jul 2026 15:34:45 GMT
-    URL  : https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss
-    Info : Donald Trump paid tribute to the 71-year-old South Carolina senator, calling him a "true American patriot" who will be "greatly mi...
-
- 7. What to expect in the semi-finals
-    Date : Sun, 12 Jul 2026 12:29:10 GMT
-    URL  : https://www.bbc.co.uk/sport/football/articles/cd6ed5x95ygo?at_medium=RSS&at_campaign=rss
-    Info : France face Spain and England take on Argentina in heavyweight World Cup semi-final meetings - here's what to expect from the last...
-
- 8. Tuchel wasn't happy with the performance. So why do England keep winning?
+ 4. Tuchel wasn't happy with the performance. So why do England keep winning?
     Date : Sun, 12 Jul 2026 12:19:03 GMT
     URL  : https://www.bbc.co.uk/sport/football/articles/c7vy25lqll6o?at_medium=RSS&at_campaign=rss
     Info : Football tactics correspondent Umir Irfan examines why England are still winning games despite Thomas Tuchel insisting performance...
 
- 9. 'Animals', Hand of God and Beckham: Argentina and England's World Cup rivalry
-    Date : Sun, 12 Jul 2026 10:10:33 GMT
-    URL  : https://www.bbc.co.uk/sport/football/articles/c621y75w2x2o?at_medium=RSS&at_campaign=rss
-    Info : As England and Argentina prepare to go head-to-head in Wednesday's World Cup semi-final, BBC Sport looks at their footballing riva...
+ 5. US insists Strait of Hormuz is open as it exchanges strikes with Iran
+    Date : Sun, 12 Jul 2026 16:46:24 GMT
+    URL  : https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss
+    Info : Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.
 
-10. Declan Rice was in bed ill for nearly three days before Norway game, Tuchel reveals
-    Date : Sun, 12 Jul 2026 11:15:14 GMT
-    URL  : https://www.bbc.co.uk/sport/football/articles/cpd3wv3v1eeo?at_medium=RSS&at_campaign=rss
-    Info : England boss Thomas Tuchel says Declan Rice was in bed for most of the three days prior to the World Cup quarter-final win against...
+ 6. Major incident declared in Wales as firefighters tackle wildfires across UK
+    Date : Sun, 12 Jul 2026 17:02:57 GMT
+    URL  : https://www.bbc.co.uk/news/articles/cy8w67l642no?at_medium=RSS&at_campaign=rss
+    Info : Residents near the Conwy fire have been evacuated, with at least 10 other fires across the UK this weekend.
 
-11. Is the World Cup or Wimbledon more stylish? Take our fashion test to find out
-    Date : Sun, 12 Jul 2026 00:39:45 GMT
-    URL  : https://www.bbc.co.uk/news/articles/cx2vz37z7v3o?at_medium=RSS&at_campaign=rss
-    Info : Wimbledon and the World Cup are known for high stakes and high fashion. Choose your favourite looks.
+ 7. US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'
+    Date : Sun, 12 Jul 2026 17:40:34 GMT
+    URL  : https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss
+    Info : Donald Trump pays tribute to the 71-year-old South Carolina senator, calling him a "true American patriot" who will be "greatly mi...
 
-12. Why young wine drinkers are breaking the 'room temperature' red rule
-    Date : Sun, 12 Jul 2026 00:47:46 GMT
-    URL  : https://www.bbc.co.uk/news/articles/c5yzjlgr7zlo?at_medium=RSS&at_campaign=rss
-    Info : Drinking a red at room temperature only is a common belief but the heatwave might have changed that.
+ 8. Andrew Flintoff's Top Gear crash passenger sues BBC Studios
+    Date : Sun, 12 Jul 2026 16:11:20 GMT
+    URL  : https://www.bbc.co.uk/news/articles/c4gy59p5gz6o?at_medium=RSS&at_campaign=rss
+    Info : Expert driver Paul Rees is claiming personal injury, which BBC Studios is disputing.
 
-13. How Aldi is taking on US supermarkets with its $4 almond butter
-    Date : Sun, 12 Jul 2026 05:00:15 GMT
-    URL  : https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss
-    Info : The German supermarket's $9bn US push targets urban hubs like Manhattan. Can its discount model match Walmart?
+ 9. Bill for Hillsborough Law set to be approved by MPs
+    Date : Sun, 12 Jul 2026 17:38:47 GMT
+    URL  : https://www.bbc.co.uk/news/articles/cz754eey3xeo?at_medium=RSS&at_campaign=rss
+    Info : The crush at the 1989 FA Cup semi-final between Liverpool and Nottingham Forest left 97 fans dead.
 
-14. Ice on testicles and donating blood : The myths sold to men trying to boost their sperm
-    Date : Sat, 11 Jul 2026 23:27:31 GMT
-    URL  : https://www.bbc.co.uk/news/articles/c8921982pgzo?at_medium=RSS&at_campaign=rss
-    Info : With men’s fertility increasingly in the spotlight, we meet the men using unproven “hacks” promoted by influencers to up their spe...
+10. David Willey, esteemed BBC Vatican correspondent, dies aged 93
+    Date : Sun, 12 Jul 2026 15:22:52 GMT
+    URL  : https://www.bbc.co.uk/news/articles/cn9403518jro?at_medium=RSS&at_campaign=rss
+    Info : One of the BBC's longest-serving foreign correspondents, he reported on five popes during his career.
 
-15. Super-rich buying up big dinosaurs is creating a bigger problem for science
-    Date : Sat, 11 Jul 2026 23:58:40 GMT
-    URL  : https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss
-    Info : A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.
-
-16. 'Exceptional' wildfire risk for parts of UK as heat health alerts issued
-    Date : Sun, 12 Jul 2026 06:07:51 GMT
-    URL  : https://www.bbc.co.uk/weather/articles/ce8mrn49gndo?at_medium=RSS&at_campaign=rss
-    Info : The warnings come as parts of the UK are set to enter their second week of temperatures above the heatwave threshold.
-
-17. Antiques Roadshow expert Theo Burrell dies aged 39
-    Date : Sun, 12 Jul 2026 12:49:15 GMT
-    URL  : https://www.bbc.co.uk/news/articles/c0ky6v64ny1o?at_medium=RSS&at_campaign=rss
-    Info : She was diagnosed with a glioblastoma, a highly aggressive brain tumour, in June 2022.
-
-18. McCullum sacked as England Test head coach
+11. McCullum sacked as England Test head coach
     Date : Sun, 12 Jul 2026 14:03:13 GMT
     URL  : https://www.bbc.co.uk/sport/cricket/articles/c8028vm2g9ro?at_medium=RSS&at_campaign=rss
     Info : England are now without a Test head coach and captain as Brendon McCullum leaves after four years in the role.
 
-19. Ann Widdecombe murder probe: What we know so far
+12. What to expect in the semi-finals
+    Date : Sun, 12 Jul 2026 12:29:10 GMT
+    URL  : https://www.bbc.co.uk/sport/football/articles/cd6ed5x95ygo?at_medium=RSS&at_campaign=rss
+    Info : France face Spain and England take on Argentina in heavyweight World Cup semi-final meetings - here's what to expect from the last...
+
+13. Tuchel angry at 'lucky' England - but Bellingham defends players
+    Date : Sun, 12 Jul 2026 03:08:42 GMT
+    URL  : https://www.bbc.co.uk/sport/football/articles/ckg474ekv58o?at_medium=RSS&at_campaign=rss
+    Info : England boss Thomas Tuchel is praised by some for saying his players "got lucky" in World Cup quarter-final win over Norway - but ...
+
+14. 'Animals', Hand of God and Beckham: Argentina and England's World Cup rivalry
+    Date : Sun, 12 Jul 2026 10:10:33 GMT
+    URL  : https://www.bbc.co.uk/sport/football/articles/c621y75w2x2o?at_medium=RSS&at_campaign=rss
+    Info : As England and Argentina prepare to go head-to-head in Wednesday's World Cup semi-final, BBC Sport looks at their footballing riva...
+
+15. Declan Rice was in bed ill for nearly three days before Norway game, Tuchel reveals
+    Date : Sun, 12 Jul 2026 11:15:14 GMT
+    URL  : https://www.bbc.co.uk/sport/football/articles/cpd3wv3v1eeo?at_medium=RSS&at_campaign=rss
+    Info : England boss Thomas Tuchel says Declan Rice was in bed for most of the three days prior to the World Cup quarter-final win against...
+
+16. Is the World Cup or Wimbledon more stylish? Take our fashion test to find out
+    Date : Sun, 12 Jul 2026 00:39:45 GMT
+    URL  : https://www.bbc.co.uk/news/articles/cx2vz37z7v3o?at_medium=RSS&at_campaign=rss
+    Info : Wimbledon and the World Cup are known for high stakes and high fashion. Choose your favourite looks.
+
+17. 'This landscape is completely charred': Inside the village at epicentre of Spain's wildfires
+    Date : Sun, 12 Jul 2026 15:33:27 GMT
+    URL  : https://www.bbc.co.uk/news/videos/cddl1yrldelo?at_medium=RSS&at_campaign=rss
+    Info : The BBC's Nick Beake sees homes razed to the ground and "a sea of black" in Bédar.
+
+18. Ann Widdecombe murder probe: What we know so far
     Date : Sun, 12 Jul 2026 11:42:20 GMT
     URL  : https://www.bbc.co.uk/news/articles/c3vyqkqkvr9o?at_medium=RSS&at_campaign=rss
     Info : The former MP was found dead at her home in Haytor, Devon, on Thursday morning.
 
-20. US insists Strait of Hormuz is open as it exchanges strikes with Iran
-    Date : Sun, 12 Jul 2026 15:35:38 GMT
-    URL  : https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss
-    Info : The strikes follow an attack on a Cyprus-flagged vessel travelling through the critical waterway.
+19. Why young wine drinkers are breaking the 'room temperature' red rule
+    Date : Sun, 12 Jul 2026 00:47:46 GMT
+    URL  : https://www.bbc.co.uk/news/articles/c5yzjlgr7zlo?at_medium=RSS&at_campaign=rss
+    Info : Drinking a red at room temperature only is a common belief but the heatwave might have changed that.
+
+20. How Aldi is taking on US supermarkets with its $4 almond butter
+    Date : Sun, 12 Jul 2026 05:00:15 GMT
+    URL  : https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss
+    Info : The German supermarket's $9bn US push targets urban hubs like Manhattan. Can its discount model match Walmart?
 

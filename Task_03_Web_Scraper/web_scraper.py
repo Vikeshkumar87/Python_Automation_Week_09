@@ -12,11 +12,11 @@ Usage:
 """
 
 import os
-import sys
-import xml.etree.ElementTree as ET
+import sys # sys is used for exiting the program on errors
+import xml.etree.ElementTree as ET # ET is used for parsing XML data
 from datetime import datetime
 
-import requests
+import requests # requests is used for making HTTP requests to fetch the RSS feed
 
 # ---------------------------------------------------------------------------
 # Configuration
